@@ -33,6 +33,7 @@ const displayCourses = () => {
     courseDiv.innerHTML = html
     app.appendChild(courseDiv)
   })
+  
 }
 
 const displayUniqueCategories = () => {
