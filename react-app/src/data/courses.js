@@ -1,4 +1,4 @@
-[
+export const coursesData = [
   {
     "title": "Work The Web",
     "slug": "wtw",
